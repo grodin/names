@@ -8,3 +8,5 @@ of what the names are (list of islands in the pacific, names of bacteria)
 then just a list of all th names.
 
 Ideally, ~~used names~~ should be marked as such.
+
+[1]: https://help.github.com/articles/github-flavored-markdown/
